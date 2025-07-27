@@ -1,0 +1,115 @@
+header{
+    background-color:rgba(255, 255, 255, 0.8);
+    font-family: Arimo, sans-serif;
+  
+  }
+  .navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+  }
+
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+  }
+
+  .navbar a:hover {
+    color: #0057ff;
+  }
+
+
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+
+
+  .about {
+    background: linear-gradient(135deg, #e8f0ff, #ffffff);
+    padding: 60px 20px;
+    text-align: center;
+  }
+
+  .about h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+
+   p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+ 
+.contact{
+    background: linear-gradient(135deg, #d0f0ff, #ffffff);
+    padding: 60px 20px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+
+
+  .contact p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+
+  .contact a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #0057ff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    font-size: 0.9rem;
+  }
+  footer a {
+    color: #0057ff;
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  
+
+
+  a {
+    color: #86c8d9;  
+  }
+  
+  a:hover {
+    color: #48707a;  
+  }
+
+ 
+  ul {
+    text-align: left;
+    display: inline-block;
+    margin-top: 10px;
+  }
